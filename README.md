@@ -15,9 +15,9 @@ The project demonstrates optimization of hyper-parameters using Bayesian Global 
 ### Tasklist:
 - [X] Boilercode
 - [X] Mid-term Report
-- [] Implement Bayesian Global Optimization: [Link](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html)
-- [] Hyperparameter tunig
-- [] Performance Analysis
+- [ ] Implement Bayesian Global Optimization: [Link](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html)
+- [ ] Hyperparameter tunig
+- [ ] Performance Analysis
 
 
 ### References:
